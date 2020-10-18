@@ -1,0 +1,60 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail_box{
+    border-style: solid;
+    border-radius: 5px;
+    padding: 1em;
+    max-width: 90%;
+    min-width: 70%;
+    }
+
+.mail_spaces{
+padding-left:200px;
+padding-right:50px;
+}
+
+#top_sect{
+padding: .2em;
+}
+#format_sender{
+padding: .2em;
+}
+
+#format_recipients{
+padding: .2em;
+}
+
+#format_subject{
+padding: .2em;
+}
+
+#format_timestamp{
+padding: .2em;
+}
+#format_body_title{
+padding: .2em;
+}
+
+
+#read_body{
+background-color:  #ccd1d1;
+border-radius: 10px;
+min-height: 400px;
+padding: 1em;
+}
+
+
+/*#email-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    }*/
+
+/*#my_tab {
+white-space: nowrap;
+}
+
+#my_tab > button {
+display: inline-block;
+}*/
